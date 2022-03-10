@@ -1,0 +1,161 @@
+[
+  {
+    "id": "cb234dbe-a68f-4731-ab5d-4110472bc84e",
+    "name": "Bob",
+    "password": "Bb1(bbb",
+    "numberInGame": 0,
+    "series": [
+      {
+        "rounds": [
+          {
+            "winner": "Bob",
+            "loser": "Tom",
+            "date": "2022-03-01T15:58:28.630704Z"
+          },
+          {
+            "winner": "Bob",
+            "loser": "Tom",
+            "date": "2022-03-01T16:01:44.1368815Z"
+          }
+        ],
+        "date": "2022-03-01T15:57:49.729169Z"
+      },
+      {
+        "rounds": [
+          {
+            "winner": "Bob",
+            "loser": "Tom",
+            "date": "2022-03-01T16:12:41.1322888Z"
+          }
+        ],
+        "date": "2022-03-01T16:11:09.3039333Z"
+      },
+      {
+        "rounds": [
+          {
+            "winner": "Tom",
+            "loser": "Bob",
+            "date": "2022-03-01T16:26:51.5002342Z"
+          }
+        ],
+        "date": "2022-03-01T16:23:33.2216793Z"
+      },
+      {
+        "rounds": [
+          {
+            "winner": "Tom",
+            "loser": "Bob",
+            "date": "2022-03-02T18:50:39.8231424Z"
+          }
+        ],
+        "date": "2022-03-02T18:50:22.8030898Z"
+      },
+      {
+        "rounds": [
+          {
+            "winner": "Bob",
+            "loser": "Tom",
+            "date": "2022-03-02T19:51:08.5021463Z"
+          },
+          {
+            "winner": null,
+            "loser": null,
+            "date": "2022-03-02T19:51:49.613941Z"
+          },
+          {
+            "winner": "Bob",
+            "loser": "Tom",
+            "date": "2022-03-02T19:52:08.1413578Z"
+          }
+        ],
+        "date": "2022-03-02T19:50:53.4787814Z"
+      },
+      {
+        "rounds": [
+          {
+            "winner": "Tom",
+            "loser": "Bob",
+            "date": "2022-03-02T20:04:11.20911Z"
+          }
+        ],
+        "date": "2022-03-02T20:03:24.3047093Z"
+      }
+    ],
+    "wins": 5,
+    "loses": 3,
+    "total": 8,
+    "registerTime": "2022-03-01T15:57:39.5567534Z"
+  },
+  {
+    "id": "40ac4655-ac72-4ebe-9a7f-5fe9c4e7f636",
+    "name": "Tom",
+    "password": "Tt1(ttt",
+    "numberInGame": 0,
+    "series": [
+      {
+        "rounds": [
+          {
+            "winner": "Tom",
+            "loser": "Bob",
+            "date": "2022-03-01T16:17:30.0410454Z"
+          }
+        ],
+        "date": "2022-03-01T16:13:50.9491719Z"
+      },
+      {
+        "rounds": [
+          {
+            "winner": "Tom",
+            "loser": "Bob",
+            "date": "2022-03-01T16:26:50.839558Z"
+          }
+        ],
+        "date": "2022-03-01T16:23:34.0152316Z"
+      },
+      {
+        "rounds": [
+          {
+            "winner": "Tom",
+            "loser": "Bob",
+            "date": "2022-03-02T18:50:40.6334264Z"
+          }
+        ],
+        "date": "2022-03-02T18:50:23.1502511Z"
+      },
+      {
+        "rounds": [
+          {
+            "winner": "Bob",
+            "loser": "Tom",
+            "date": "2022-03-02T19:51:08.2193058Z"
+          },
+          {
+            "winner": null,
+            "loser": null,
+            "date": "2022-03-02T19:51:49.752568Z"
+          },
+          {
+            "winner": "Bob",
+            "loser": "Tom",
+            "date": "2022-03-02T19:52:07.9974566Z"
+          }
+        ],
+        "date": "2022-03-02T19:50:53.7825308Z"
+      },
+      {
+        "rounds": [
+          {
+            "winner": "Tom",
+            "loser": "Bob",
+            "date": "2022-03-02T20:04:12.2169928Z"
+          }
+        ],
+        "date": "2022-03-02T20:03:24.6548031Z"
+      }
+    ],
+    "wins": 4,
+    "loses": 2,
+    "total": 6,
+    "registerTime": "2022-03-01T15:57:16.8477493Z"
+  }
+]

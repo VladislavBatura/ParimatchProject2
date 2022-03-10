@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{299010BF-C111-4671-8353-C24A7CE21101}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{623A1351-52FE-40DB-B659-B87AFE9BC511}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerTicTacToe", "ServerTicTacToe\ServerTicTacToe.csproj", "{3AD77E52-DDCD-4AF9-B285-51B1574DB8B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientTicTacToe", "ClientTicTacToe\ClientTicTacToe.csproj", "{08885D94-1098-4CEA-9E95-8ACEC6D3E0FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeLibrary", "TicTacToeLibrary\TicTacToeLibrary.csproj", "{BC885DF5-ABC7-4B60-AB90-1323D121CA4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AD77E52-DDCD-4AF9-B285-51B1574DB8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD77E52-DDCD-4AF9-B285-51B1574DB8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD77E52-DDCD-4AF9-B285-51B1574DB8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD77E52-DDCD-4AF9-B285-51B1574DB8B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08885D94-1098-4CEA-9E95-8ACEC6D3E0FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08885D94-1098-4CEA-9E95-8ACEC6D3E0FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08885D94-1098-4CEA-9E95-8ACEC6D3E0FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08885D94-1098-4CEA-9E95-8ACEC6D3E0FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC885DF5-ABC7-4B60-AB90-1323D121CA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC885DF5-ABC7-4B60-AB90-1323D121CA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC885DF5-ABC7-4B60-AB90-1323D121CA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC885DF5-ABC7-4B60-AB90-1323D121CA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3AD77E52-DDCD-4AF9-B285-51B1574DB8B0} = {299010BF-C111-4671-8353-C24A7CE21101}
+		{08885D94-1098-4CEA-9E95-8ACEC6D3E0FC} = {623A1351-52FE-40DB-B659-B87AFE9BC511}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAF6DFBC-4206-45B2-95F2-754DD26E496C}
+	EndGlobalSection
+EndGlobal
